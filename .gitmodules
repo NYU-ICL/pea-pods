@@ -1,0 +1,3 @@
+[submodule "third_party/vr-power-saver"]
+	path = third_party/vr-power-saver
+	url = https://github.com/NYU-ICL/vr-power-saver.git

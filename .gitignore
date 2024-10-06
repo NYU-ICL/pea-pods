@@ -1,0 +1,5 @@
+__pycache__
+.DS_Store
+pypeapods/output/*
+scripts/
+study_src/
